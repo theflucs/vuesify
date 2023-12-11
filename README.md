@@ -1,5 +1,7 @@
 # vuesify
 
+## Spotify clone using Vuejs 3, Vuex, Vitest, Cypresss and Bootstrap 5
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
